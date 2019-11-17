@@ -7,5 +7,7 @@ public class GreetTest {
 		System.out.println("Learning Git Hub");
 		
 	System.out.println("This is fix for defect#42525");
+	
+	System.out.println("Update Git");
 	}
 }
